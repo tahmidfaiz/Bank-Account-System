@@ -1,2 +1,2 @@
 # Banking-Account-System
-The objective of the project is to implement a micro bank account system which manipulates the accounts of one client. In this system, the user creates a client, adds and removes bank accounts, and execute other operations with those accounts. 
+The objective of This program is to implement a micro bank account system that manipulates the accounts of multiple clients. In this system, the user creates a client, adds, and removes bank accounts, and executes other mathematical operations with those accounts such as calculating the balance and saving rates. The program implements various algorithms such as searching and sorting algorithms using the best run-time execution possible.
